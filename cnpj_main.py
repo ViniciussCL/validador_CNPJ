@@ -1,6 +1,6 @@
 import funcao_cnpj
 
-cnpj_original = input('Insira seu CPF: ')
+cnpj_original = input('Insira seu CNPJ: ')
 
 
 if funcao_cnpj.validador(cnpj_original):
